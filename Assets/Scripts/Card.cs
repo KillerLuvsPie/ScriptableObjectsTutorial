@@ -12,5 +12,4 @@ public class Card : ScriptableObject
     public int mana;
     public int attack;
     public int health;
-    public Button button;
 }
